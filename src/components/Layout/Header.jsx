@@ -103,7 +103,7 @@ const Header = () => {
                     {/* Logo */}
                     <div className="flex items-center pt-5">
                         <Link to="/">
-                            <img src="/src/assets/Logo.png" alt="ApexFit Logo" className="w-20 object-contain" />
+                            <img src="./src/assets/Logo.png" alt="ApexFit Logo" className="w-20 object-contain" />
                         </Link>
                     </div>
 

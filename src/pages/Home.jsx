@@ -166,7 +166,7 @@ const Home = () => {
                         <div className="relative">
                             <div className=" rounded-2xl p-6 aspect-[4/3] flex items-center justify-center overflow-hidden">
                                 <img
-                                    src="/src/assets/image.png"
+                                    src="./src/assets/image.png"
                                     alt="Gym Image"
                                     className="w-full h-full object-cover rounded-xl"
                                 />
